@@ -14,11 +14,18 @@ Here are my social medias
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-g-amaral&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br/>
+
   <img alignm="center" alt="TypeScript" src="https://badges.aleen42.com/src/typescript.svg" />
   <img alignm="center" alt="Docker" src="https://badges.aleen42.com/src/docker.svg" />
     <img alignm="center" alt="Node" src="https://badges.aleen42.com/src/node.svg" />
     <img alignm="center" alt="JavaScript" src="https://badges.aleen42.com/src/javascript.svg" />
-    <img alignm="center" alt="Php" src="https://badges.aleen42.com/src/php.svg" />
+    <img alignm="center" alt="Php" src="![php+plain-1324760555060951567](https://user-images.githubusercontent.com/104391703/229206800-bc163107-e28a-49f1-a437-dfa9432407c7.svg)
+" />
+   <img alignm="center" alt="Delphi" src="https://icons-for-free.com/iconfiles/svg/0/vscode+icons+type+delphi-1324451275367722730.svg" />
     <img alignm="center" alt="Cli" src="https://badges.aleen42.com/src/cli.svg" />
+  <img alignm="center" alt="Oracle" src="![oracle+original-1324760554740539051](https://user-images.githubusercontent.com/104391703/229206752-a29b8f4f-2840-4f4e-a36a-ef2b3765746d.svg)
+" />
+  <img alignm="center" alt="SQL" src="![vscode+icons+type+sql-1324451491579630520](https://user-images.githubusercontent.com/104391703/229206831-74ce32f1-12e0-41df-8044-27539f83a17c.svg)
+" />
  </div><br/>
  
