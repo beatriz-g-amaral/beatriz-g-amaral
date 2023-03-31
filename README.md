@@ -8,11 +8,11 @@ Here are my social medias
 
 
 
-![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=bia555555555&show_icons=true&theme=dark)
+![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=beatriz-g-amaral&show_icons=true&theme=dark)
 
 ## What can i code?
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bia555555555&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-g-amaral&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br/>
   <img alignm="center" alt="TypeScript" src="https://badges.aleen42.com/src/typescript.svg" />
   <img alignm="center" alt="Docker" src="https://badges.aleen42.com/src/docker.svg" />
