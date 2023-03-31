@@ -13,11 +13,11 @@ Here are my social medias
 ## What can i code?
 
 <div style="display: inline_block"><br/>
-  <img alignm="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img alignm="center" alt="Unity" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-  <img alignm="center" alt="Unity" src="https://aleen42.github.io/badges/src/photoshop.svg" />
-  <img alignm="center" alt="Unity" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alignm="center" alt="Unity" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-  
+  <img alignm="center" alt="Unity" src="[svg](https://badges.aleen42.com/src/typescript.svg)" />
+  <img alignm="center" alt="Unity" src="https://badges.aleen42.com/src/docker.svg" />
+    <img alignm="center" alt="Unity" src="https://badges.aleen42.com/src/node.svg" />
+    <img alignm="center" alt="Unity" src="https://badges.aleen42.com/src/javascript.svg" />
+    <img alignm="center" alt="Unity" src="https://badges.aleen42.com/src/php.svg" />
+    <img alignm="center" alt="Unity" src="https://badges.aleen42.com/src/cli.svg" />
  </div><br/>
  
