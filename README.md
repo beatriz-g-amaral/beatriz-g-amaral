@@ -23,6 +23,6 @@ Here are my social medias
     <img alignm="center" alt="Cli" src="https://badges.aleen42.com/src/cli.svg" />
   <img alignm="center" alt="Oracle" src=![oracle+original-1324760554740539051](https://user-images.githubusercontent.com/104391703/229206752-a29b8f4f-2840-4f4e-a36a-ef2b3765746d.svg) />
   <img alignm="center" alt="SQL" src=![vscode+icons+type+sql-1324451491579630520](https://user-images.githubusercontent.com/104391703/229206831-74ce32f1-12e0-41df-8044-27539f83a17c.svg) />
-   <img alignm="center" size="small"alt="Delphi" src="https://icons-for-free.com/iconfiles/svg/0/vscode+icons+type+delphi-1324451275367722730.svg" />
+  <img alignm="center" alt="Delphi" src="https://icons-for-free.com/iconfiles/svg/0/vscode+icons+type+delphi-1324451275367722730.svg" height="50" width="50"/>
  </div><br/>
  
