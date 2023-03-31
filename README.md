@@ -12,12 +12,14 @@ Here are my social medias
 
 ## What can i code?
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bia555555555)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: inline_block"><br/>
-  <img alignm="center" alt="Unity" src="[svg](https://badges.aleen42.com/src/typescript.svg)" />
-  <img alignm="center" alt="Unity" src="https://badges.aleen42.com/src/docker.svg" />
-    <img alignm="center" alt="Unity" src="https://badges.aleen42.com/src/node.svg" />
-    <img alignm="center" alt="Unity" src="https://badges.aleen42.com/src/javascript.svg" />
-    <img alignm="center" alt="Unity" src="https://badges.aleen42.com/src/php.svg" />
-    <img alignm="center" alt="Unity" src="https://badges.aleen42.com/src/cli.svg" />
+  <img alignm="center" alt="TypeScript" src="https://badges.aleen42.com/src/typescript.svg" />
+  <img alignm="center" alt="Docker" src="https://badges.aleen42.com/src/docker.svg" />
+    <img alignm="center" alt="Node" src="https://badges.aleen42.com/src/node.svg" />
+    <img alignm="center" alt="JavaScript" src="https://badges.aleen42.com/src/javascript.svg" />
+    <img alignm="center" alt="Php" src="https://badges.aleen42.com/src/php.svg" />
+    <img alignm="center" alt="Cli" src="https://badges.aleen42.com/src/cli.svg" />
  </div><br/>
  
