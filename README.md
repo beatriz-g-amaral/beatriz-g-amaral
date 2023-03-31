@@ -8,7 +8,7 @@ Here are my social medias
 
 
 
-![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=bia555555555&show_icons=true&theme=radical)
+![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=bia555555555&show_icons=true&theme=dark)
 
 ## What can i code?
 
