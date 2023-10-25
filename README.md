@@ -1,14 +1,14 @@
 ### Hi, my name is Beatriz and I'm a developer.
 # About Me 
-Eu sou um entusiasta de jogos e programação, atualmente estudando Jogos Digitais na faculdade. Com 22 anos de idade, tive a experiência de superar uma doença grave aos 14 anos, o que fortaleceu minha determinação. Moro sozinha com meus dois adoráveis animais de estimação.
+Olá, sou Beatriz, uma desenvolvedora apaixonada por tecnologia e inovação. Com 22 anos, sou uma entusiasta de jogos e programação, atualmente estudando Jogos Digitais na faculdade.
 
 - 🕹️ Apaixonada por videogames
 - 🎓 Estudante de Jogos Digitais
 - 👩‍💻 Programadora
 
-Em 2024, me formarei na faculdade e estou ansiosa para explorar o mundo dos jogos e da programação.
+Minha jornada na programação é alimentada por uma forte determinação, foco e desejo constante de aprender e crescer. Estou ansiosa para explorar o emocionante mundo dos jogos e da programação e, em 2024, me formarei na faculdade, levando comigo a paixão por criar experiências excepcionais.
 
-Here are my social medias
+# Here are my social medias
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizg-amaral/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
