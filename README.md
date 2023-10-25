@@ -1,4 +1,15 @@
 ### Hi, my name is Beatriz and I'm a developer.
+# About Me 
+Eu sou um entusiasta de jogos e programação, atualmente estudando Jogos Digitais na faculdade. Com 22 anos de idade, tive a experiência de superar uma doença grave aos 14 anos, o que fortaleceu minha determinação. Moro sozinha com meus dois adoráveis animais de estimação.
+
+- 🕹️ Apaixonada por videogames
+- 🎓 Estudante de Jogos Digitais
+- 👩‍💻 Programadora
+
+Em 2024, me formarei na faculdade e estou ansiosa para explorar o mundo dos jogos e da programação.
+
+![Minha Foto de Perfil](https://media.licdn.com/dms/image/D4D03AQFvcIHqRQVDgA/profile-displayphoto-shrink_800_800/0/1698170200279?e=1703721600&v=beta&t=KFc8bPERa6N6RDQXoBbXYk6l_J5LjvL6xamO1JB6I6I)
+
 Here are my social medias
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizg-amaral/)
@@ -19,8 +30,7 @@ https://www.beatrizamaral.dev/
   <img alignm="center" alt="Docker" src="https://badges.aleen42.com/src/docker.svg" />
     <img alignm="center" alt="Node" src="https://badges.aleen42.com/src/node.svg" />
     <img alignm="center" alt="JavaScript" src="https://badges.aleen42.com/src/javascript.svg" />
-    <img alignm="center" alt="Php" src="<img src="https://cdn.iconscout.com/icon/free/png-256/php-27-226042.png" alt="PHP logo" height="50" width="50">
-">
+   <img align="center" alt="Php" src="https://cdn.iconscout.com/icon/free/png-256/php-27-226042.png" alt="PHP logo" height="50" width="50">
     <img alignm="center" alt="Cli" src="https://badges.aleen42.com/src/cli.svg" />
   <img alignm="center" alt="Oracle" src="![oracle+original-1324760554740539051](https://user-images.githubusercontent.com/104391703/229206752-a29b8f4f-2840-4f4e-a36a-ef2b3765746d.svg)" />
   <img alignm="center" alt="SQL" src="![vscode+icons+type+sql-1324451491579630520](https://user-images.githubusercontent.com/104391703/229206831-74ce32f1-12e0-41df-8044-27539f83a17c.svg)" />
