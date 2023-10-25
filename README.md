@@ -8,8 +8,6 @@ Eu sou um entusiasta de jogos e programação, atualmente estudando Jogos Digita
 
 Em 2024, me formarei na faculdade e estou ansiosa para explorar o mundo dos jogos e da programação.
 
-![Minha Foto de Perfil](https://media.licdn.com/dms/image/D4D03AQFvcIHqRQVDgA/profile-displayphoto-shrink_800_800/0/1698170200279?e=1703721600&v=beta&t=KFc8bPERa6N6RDQXoBbXYk6l_J5LjvL6xamO1JB6I6I)
-
 Here are my social medias
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizg-amaral/)
