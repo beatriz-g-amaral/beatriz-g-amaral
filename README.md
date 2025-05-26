@@ -1,6 +1,6 @@
 ### Hi, my name is Beatriz and I'm a developer.
 # About Me 
-Olá, sou Beatriz, uma desenvolvedora apaixonada por tecnologia e inovação. Com 22 anos, sou uma entusiasta de jogos e programação, atualmente estudando Jogos Digitais na faculdade.
+Olá, sou Beatriz, uma desenvolvedora apaixonada por tecnologia e inovação. Com 24 anos, sou uma entusiasta de jogos e programação, atualmente estudando Jogos Digitais na faculdade.
 
 - 🕹️ Apaixonada por videogames
 - 🎓 Estudante de Jogos Digitais
